@@ -41,7 +41,4 @@ customers → orders → order_items → products
 **Ravi Raj**  
 Data Analyst | Delhi, India  
 [LinkedIn](https://linkedin.com/in/ravi-raj-0074b2267)
-```
-Click **"Commit changes"** ✅
 
-Tell me **"README done"** and I'll show you how to add this project to your resume and LinkedIn! 🚀
